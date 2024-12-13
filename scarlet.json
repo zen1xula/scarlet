@@ -14,7 +14,8 @@
             "description": "Eevee Spotify - it's a hacked Spotify Premium/Eevee Spotify - Это взломанный Spotify Premium",
             "bundleID": "EeveeSpotify",
             "contact": {
-                "web": "https://github.com/whoeevee/EeveeSpotify"
+                "web": "https://github.com/whoeevee/EeveeSpotify",
+                "web": "https://github.com/zen1xula"
             },
             "screenshots": [
                 "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0818.png",
