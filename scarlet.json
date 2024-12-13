@@ -20,6 +20,21 @@
                 "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0818.png",
                 "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0819.png"
             ]
-        }
+        },
+        {
+            "name": "BSD Brawl",
+            "version": "v58.279",
+            "icon": "https://github.com/zen1xula/scarlet/blob/main/9af7ea3259a69623a41b6e8bf98a52b4.png?raw=true",
+            "down": "https://www.mediafire.com/file/ymbm9yyj53an6xp/bsd_brawl.ipa/file",
+            "category": "Apps/Приложения",
+            "banner": "https://img.mobigama.net/app/9744-bsd_brawl/1_bsd_brawl_w176.png",
+            "description": "Brawl Stars Datamines - It's a unique modification for Brawl Stars/Brawl Stars Datamines - Это уникуальная модификация к игре Brawl Stars",
+            "bundleID": "bsd.suitcase.release",
+            "contact": {
+                "telegram": "https://t.me/bsdatamines"
+            },
+            "screenshots": [
+                "
+            
     ]
 }
