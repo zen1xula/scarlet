@@ -1,17 +1,25 @@
 {
-    "repoName": "zen1xula's repo",
-    "repoIcon": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0638.jpeg",
-    "name": "Eevee Spotify",
-    "version": "5.8.3",
-    "icon": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/spotify.png",
-    "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8.3/EeveeSpotify-5.8.3-9.0.0.ipa",
-    "category": "Apps",
-    "banner": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0820.jpeg",
-    "description": "Eevee Spotify - Hacked Spotify Premium.",
-    "bundleID": "com.eevee.spotify",
-    "website": "https://github.com/whoeevee/EeveeSpotify",
-    "screenshots": [
-        "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0818.png",
-        "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0819.png"
+    "META": {
+        "repoName": "zen1xula's repo",
+        "repoIcon": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0638.jpeg"
+    },
+    "Tweaked": [
+        {
+            "name": "Eevee Spotify",
+            "version": "5.8.3",
+            "icon": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/spotify.png",
+            "down": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8.3/EeveeSpotify-5.8.3-9.0.0.ipa",
+            "category": "Apps/Приложения",
+            "banner": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0820.jpeg",
+            "description": "Eevee Spotify - it's a hacked Spotify Premium/Eevee Spotify - Это взломанный Spotify Premium",
+            "bundleID": "EeveeSpotify",
+            "contact": {
+                "web": "https://github.com/whoeevee/EeveeSpotify"
+            },
+            "screenshots": [
+                "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0818.png",
+                "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0819.png"
+            ]
+        }
     ]
 }
