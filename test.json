@@ -1,6 +1,6 @@
 {
     "META": {
-        "repoName": "zen1xula repo",
+        "repoName": "zen1xula's repo",
         "repoIcon": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0638.jpeg"
     },
     "Tweaked": [
@@ -8,23 +8,18 @@
             "name": "Eevee Spotify",
             "version": "5.8.3",
             "icon": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg",
-            "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8.3/EeveeSpotify-5.8.3-9.0.0.ipa",
-            "category": "Apps",
+            "down": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8.3/EeveeSpotify-5.8.3-9.0.0.ipa",
+            "category": "Apps/Приложения",
             "banner": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0820.jpeg",
-            "description": {
-                "en": "Eevee Spotify - A hacked Spotify Premium.",
-                "ru": "Eevee Spotify - Это взломанный Spotify Premium."
-            },
-            "bundleID": "com.eevee.spotify",
+            "description": "Eevee Spotify - it's a hacked Spotify Premium/Eevee Spotify - Это взломанный Spotify Premium",
+            "bundleID": "EeveeSpotify",
             "contact": {
-                "website": "https://github.com/whoeevee/EeveeSpotify"
+                "web": "https://github.com/whoeevee/EeveeSpotify"
             },
             "screenshots": [
                 "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0818.png",
                 "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0819.png"
-            ],
-            "type": "app",
-            "developer": "zen1xula"
+            ]
         }
     ]
 }
