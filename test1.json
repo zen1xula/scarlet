@@ -7,7 +7,7 @@
         {
             "name": "Eevee Spotify",
             "version": "5.8.3",
-            "icon": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg",
+            "icon": "",
             "down": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8.3/EeveeSpotify-5.8.3-9.0.0.ipa",
             "category": "Apps/Приложения",
             "banner": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0820.jpeg",
