@@ -11,7 +11,7 @@
             "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8.3/EeveeSpotify-5.8.3-9.0.0.ipa",
             "category": "Apps",
             "banner": "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0820.jpeg",
-            "description": "Eevee Spotify - it's a hacked Spotify Premium.",
+            "description": "Eevee Spotify - Hacked Spotify Premium.",
             "bundleID": "com.eevee.spotify",
             "contact": {
                 "website": "https://github.com/whoeevee/EeveeSpotify"
@@ -19,7 +19,9 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0818.png",
                 "https://raw.githubusercontent.com/zen1xula/scarlet/refs/heads/main/IMG_0819.png"
-            ]
+            ],
+            "type": "app",
+            "developer": "zen1xula"
         }
     ]
 }
