@@ -36,6 +36,22 @@
             "screenshots": [
                 "https://github.com/zen1xula/scarlet/blob/main/9af7ea3259a69623a41b6e8bf98a52b4.png?raw=true"
             ]
-        }   
+        },
+        {
+            "name": "Null's Brawl",
+            "version": "v58.279",
+            "icon": "https://corandroid.com/uploads/posts/2024-03/1711741334_nulls-brawl.png",
+            "down": "dnull.xyz/latest_bs_i",
+            "category": "Apps/Приложения",
+            "banner": "https://androidphoria.com/wp-content/uploads/como-instalar-nulls-brawl.jpg",
+            "description": "Private server with unlimited gems/Приватный сервер с безлимитными гемами",
+            "bundleID": "NullsBrawl",
+            "contact": {
+                "telegram": "https://t.me/nulls_ru"
+            },
+            "screenshots": [
+                "https://corandroid.com/uploads/posts/2024-03/1711741307_nulls-brawl-2.png"
+            ]
+        }
     ]
 }
